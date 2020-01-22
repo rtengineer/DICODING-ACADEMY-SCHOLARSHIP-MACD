@@ -15,7 +15,7 @@ if (isset($_POST['submit'])) {
 
 <head>
     <title>Analyze Sample (Test)</title>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 
     <script language="javascript">
         document.getElementById('analyze_btn').click();
